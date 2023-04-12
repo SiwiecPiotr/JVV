@@ -10,7 +10,7 @@ st.text('This is a web app to allow word replacement and adding margin to costs 
 
 
 # Sidebar setup
-st.sidebar.title('Sidebar')
+st.sidebar.title('Beta...')
 upload_file = st.sidebar.file_uploader('Upload an excel file')
 
 # Check if file has been uploaded
